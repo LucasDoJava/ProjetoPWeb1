@@ -8,8 +8,6 @@ function somar(a, b) {
 
 let subtrair = (a, b) => a - b;
     
-  
-
   function dividir(a, b) {
     if (b !== 0) {
         return a / b;
